@@ -5,17 +5,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="346a7808-cfdd-4f73-864f-48c719d24371" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/polimorfismoFix.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Aplication/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Entities/ImportedProduct.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Entities/Product.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Entities/UsedProduct.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Aplication/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Aplication/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Entities/ImportedProduct.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Entities/ImportedProduct.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />

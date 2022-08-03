@@ -4,7 +4,7 @@ public class ImportedProduct extends Product {
     private double customsFree;
 
 
-    public ImportedProduct(String name, double price) {
+    public ImportedProduct(String name,double price) {
         super(name, price);
     }
 
@@ -22,7 +22,7 @@ public class ImportedProduct extends Product {
     }
 
     public double totalPrice() {
-        return getPrice() * customsFree;
+        return getPrice() + customsFree;
     }
 
     @Override
